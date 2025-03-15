@@ -136,7 +136,7 @@ main{
 }
 
 .tag-box .tag:hover{
-    color: #5300a0;
+    background-color: #5300a0;
 }
 
 .content h1 {
